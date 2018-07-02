@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXComponentManager.m \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/Target\ Support\ Files/WeexSDK/WeexSDK-prefix.pch \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXComponentManager.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXComponent.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Layout/WXLayoutDefine.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Layout/Layout.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXType.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Component/WXComponent_internal.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXScrollerProtocol.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXConvert.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXLog.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Component/WXTransform.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Module/WXTransition.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Component/RecycleList/WXComponent+DataBinding.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXComponentFactory.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXInvocationConfig.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXBridgeMethod.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXDefine.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/NSArray+Weex.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXSDKInstance.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXJSExceptionInfo.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceResponse.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceRequest.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXAssert.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXUtility.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Monitor/WXMonitor.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Engine/WXSDKError.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXSDKManager.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXBridgeManager.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXHandlerFactory.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXValidateProtocol.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Module/WXPrerenderManager.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXModuleProtocol.h \
+  /Users/lee/Desktop/Weex_test/awesome-app/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXTracingManager.h
